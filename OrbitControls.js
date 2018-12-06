@@ -1,4 +1,4 @@
-/* three-orbitcontrols addendum */ var THREE = require('three');
+
 /**
  * @author qiao / https://github.com/qiao
  * @author mrdoob / http://mrdoob.com
@@ -1050,4 +1050,4 @@ Object.defineProperties( THREE.OrbitControls.prototype, {
 	}
 
 } );
-/* three-orbitcontrols addendum */ module.exports = exports.default = THREE.OrbitControls;
+
